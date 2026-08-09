@@ -1,0 +1,31 @@
+# Reflection: Cloud Services, Git, and GitHub
+
+Cloud computing has become a normal part of my everyday life.
+  I use different cloud services without always thinking about how they work in the background.
+  For example, I use **Google Drive** to store and access my files, **Gmail** for communication, 
+  and **GitHub** to store and manage my projects. These services are useful because I can access
+my files and applications from different devices as long as I have an Internet connection.
+
+In this course, I learned about the three main cloud service models: **Infrastructure as a Service
+(IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)**. IaaS provides resources
+such as virtual machines, storage, and networking. PaaS provides a platform where developers can
+create and deploy applications without having to manage everything underneath. SaaS provides
+applications that users can access through the Internet. Understanding these models helped me
+see that cloud computing is not just about online storage but also includes the infrastructure 
+and platforms used to run applications.
+
+One thing I found especially important is **Git**. Before learning about version control,
+I mostly thought of saving different copies of files as a way to keep track of my work. Git 
+provides a better way to manage changes because it keeps a history of the project. It allows 
+me to see what was changed and makes it easier to go back to an earlier version when necessary.
+
+I also learned that **GitHub** is useful for storing Git repositories online and working with other 
+people. It can help organize projects, share files and code, and keep track of changes. For a course 
+like Cloud Computing, I think GitHub is especially useful because we will be working with configurations, 
+documentation, scripts, and different cloud technologies throughout the semester.
+
+Overall, this activity helped me understand that cloud computing is more than just using online services. 
+It involves different technologies and practices such as virtualization, servers, storage, containers, security,
+monitoring, and automation. I also realized that Git and GitHub are important tools for keeping cloud-related projects
+organized and maintaining a record of the work that has been done. As I continue learning in this course, I expect my GitHub
+repository to become a useful record of the skills and projects I develop.
